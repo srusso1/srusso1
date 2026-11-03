@@ -4,7 +4,7 @@
 <br>
 
 <p align="center">
-  <img src="https://komarev.com/ghprofile/utc/?username=srusso1&color=blueviolet&style=flat-square" alt="Visitas al perfil" />
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=srusso1.srusso1" alt="Visitas al perfil" />
   <img src="https://img.shields.io/badge/Status-Disponible%20para%20proyectos-brightgreen?style=flat-square" alt="Status" />
   <img src="https://img.shields.io/badge/Estándares-GOV.CO%2FMinTIC-blue?style=flat-square" alt="Standards" />
 </p>
@@ -12,10 +12,10 @@
 ---
 
 ### 🚀 Sobre mí
-- 🌱 Actualmente cursando el **5to semestre de Ingeniería de Sistemas** en la Universidad Popular del Cesar[cite: 1].
-- 💼 Experiencia profesional construyendo e implementando software en producción activa para los sectores comercial y educativo[cite: 1].
-- 🛠️ Apasionado por la arquitectura limpia[cite: 2], el desarrollo backend robusto y el diseño de interfaces accesibles bajo normativas gubernamentales (**GOV.CO** / MinTIC)[cite: 1, 2].
-- 📍 Ubicado en **Valledupar, Cesar, Colombia**[cite: 1].
+- 🌱 Actualmente cursando el **5to semestre de Ingeniería de Sistemas** en la Universidad Popular del Cesar.
+- 💼 Experiencia profesional construyendo e implementando software en producción activa para los sectores comercial y educativo.
+- 🛠️ Apasionado por la arquitectura limpia, el desarrollo backend robusto y el diseño de interfaces accesibles bajo normativas gubernamentales (**GOV.CO** / MinTIC).
+- 📍 Ubicado en **Valledupar, Cesar, Colombia**.
 
 ---
 
@@ -54,11 +54,11 @@
 
 ### 📂 Proyectos Destacados
 
-* **Almacén STC (Strictis)**: Plataforma interna para planificación automática de turnos y control de asistencia biométrica, desarrollada con C# (.NET), EF Core, PostgreSQL y React 19, con reportes automatizados y pruebas con xUnit y Playwright[cite: 1].
-* **SAED 2.0**: Plataforma PropTech de administración de propiedades residenciales desarrollada con Spring Boot 3, React 18 y modelos de seguridad Zero-Trust con Oracle Database (Row-Level Security)[cite: 2].
-* **Disciplina Web & Disciplina+**: Sistema de gestión y analítica disciplinaria escolar migrado a Spring Boot 3, PostgreSQL y React + TypeScript, integrado con la API de Google Gemini[cite: 2].
-* **Sede Electrónica IE Trujillo**: Portal web institucional y CMS bajo estándares GOV.CO y MinTIC construido con Next.js 15, Payload CMS y Tailwind CSS[cite: 2].
-* **BookTech & SCAE**: Aplicaciones de escritorio en producción para gestión académica e inventarios desarrolladas con Java 21, JavaFX e Inno Setup[cite: 2].
+* **Almacén STC (Strictis)**: Plataforma interna para planificación automática de turnos y control de asistencia biométrica, desarrollada con C# (.NET), EF Core, PostgreSQL y React 19, con reportes automatizados y pruebas con xUnit y Playwright.
+* **SAED 2.0**: Plataforma PropTech de administración de propiedades residenciales desarrollada con Spring Boot 3, React 18 y modelos de seguridad Zero-Trust con Oracle Database (Row-Level Security).
+* **Disciplina Web & Disciplina+**: Sistema de gestión y analítica disciplinaria escolar migrado a Spring Boot 3, PostgreSQL y React + TypeScript, integrado con la API de Google Gemini.
+* **Sede Electrónica IE Trujillo**: Portal web institucional y CMS bajo estándares GOV.CO y MinTIC construido con Next.js 15, Payload CMS y Tailwind CSS.
+* **BookTech & SCAE**: Aplicaciones de escritorio en producción para gestión académica e inventarios desarrolladas con Java 21, JavaFX e Inno Setup.
 
 ---
 
@@ -76,5 +76,5 @@
 ---
 
 ### 📫 Contáctame
-* **Email:** sebastian.russob@gmail.com[cite: 1]
-* **LinkedIn:** [Perfil profesional](https://linkedin.com)[cite: 1]
+* **Email:** sebastian.russob@gmail.com
+* **LinkedIn:** [Perfil profesional](https://linkedin.com)
